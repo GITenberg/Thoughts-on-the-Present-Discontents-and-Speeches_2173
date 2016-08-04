@@ -1,0 +1,36 @@
+_repo: Thoughts-on-the-Present-Discontents-and-Speeches_2173
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burke, Edmund
+    birthdate: 1729
+    deathdate: 1797
+    gutenberg_agent_id: '842'
+    url: http://www.gutenberg.org/2009/agents/842
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Burke
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1760-1789'
+- GITenberg
+tableOfContents: Thoughts on the present discontents -- Speech on the Middlesex election
+  -- Speech on the power of juries in prosecutions for libels -- Speech on a bill
+  for shortening the duration of Parliaments -- Speech on reform of representation
+  in the House of Commons.
+title: Thoughts on the Present Discontents, and Speeches
+url: http://www.gutenberg.org/ebooks/2173
